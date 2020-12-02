@@ -1,2 +1,4 @@
 # To-Do-List-App
-Sample To Do List app for educational purposes
+sample To Do List app for educational purposes
+
+Progresses as we progress through android development
