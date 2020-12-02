@@ -87,3 +87,5 @@ lint/tmp/
 .vscode
 .idea
 .settings
+
+.DS_Store
